@@ -1,5 +1,6 @@
- Fashion MNIST Classification using Deep Learning :-
- - A deep learning project that classifies fashion items using the Fashion MNIST dataset with the help of TensorFlow and Keras.
+# Fashion MNIST Classification using Deep Learning
+Fashion MNIST Classification using Deep Learning :-
+- A deep learning project that classifies fashion items using the Fashion MNIST dataset with the help of TensorFlow and Keras.
 
 📌 Project Description:- 
 This project focuses on building a neural network model to classify grayscale images of clothing into predefined categories. It demonstrates the application of deep learning techniques for image classification tasks and provides a simple yet effective implementation for beginners.
