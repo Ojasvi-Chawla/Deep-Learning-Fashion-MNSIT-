@@ -24,3 +24,30 @@ Label	Category:
 7	Sneaker
 8	Bag
 9	Ankle boot
+
+🧠 Model Architecture
+The model is built using a Sequential Neural Network:
+Flatten Layer (Input Layer)
+Dense Layer (128 neurons, ReLU activation)
+Dense Layer (64 neurons, ReLU activation)
+Output Layer (10 neurons, Softmax activation)
+
+⚙️ Technologies Used :
+Python
+TensorFlow
+Keras
+NumPy
+Matplotlib
+Jupyter Notebook
+
+📈 Model Performance
+The model is trained on 60,000 images and tested on 10,000 images
+Achieves good accuracy for basic ANN architecture
+Performance can be further improved using CNNs
+
+🔍 Key Features
+Data preprocessing and normalization
+Label encoding
+Model training with validation
+Accuracy evaluation
+Predictions on test data
